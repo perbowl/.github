@@ -38,7 +38,7 @@ How the site is paid for: [How we make money](https://perbowl.com/how-we-make-mo
 
 ## Who is behind it
 
-<img src="jeremiah-say.jpg" alt="Jeremiah Say, founder and editor of PerBowl" width="120" align="left" hspace="16">
+<img src="https://raw.githubusercontent.com/perbowl/.github/main/profile/jeremiah-say.jpg" alt="Jeremiah Say, founder and editor of PerBowl" width="120" align="left" hspace="16">
 
 **[Jeremiah Say](https://perbowl.com/about/jeremiah-say/)**, founder and editor.
 I build PerBowl's data from public records, review every maker and link before it is published, and write the pages.
